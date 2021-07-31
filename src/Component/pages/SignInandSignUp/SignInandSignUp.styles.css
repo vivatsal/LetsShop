@@ -1,0 +1,9 @@
+.signin-signup{
+    display: flex;
+    height: 630px;
+    margin-left: 20px;
+    flex-wrap: wrap;
+    width: 96.75%;
+    overflow: hidden;
+    flex-direction: row;
+}

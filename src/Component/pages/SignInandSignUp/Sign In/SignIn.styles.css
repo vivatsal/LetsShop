@@ -1,0 +1,23 @@
+.SignIn{
+display: flex;
+width: 35vw;
+flex-direction: column;}
+
+.SignInpage{
+width: 35vw;  
+margin-left: 13%;
+margin-top: 0;
+}
+
+.buttons{
+display: flex;
+flex-direction: row;
+}
+
+.title{
+font-size: 25px;
+}
+
+h2{margin-bottom: 0;}
+
+

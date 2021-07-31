@@ -1,0 +1,51 @@
+.header{
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.head{
+    text-decoration: none;
+    margin: 2.75%;
+    color: black;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.logo-container{display: flex;
+    justify-content: flex-start;
+    margin-left: 2%;
+}
+
+.sign{
+    text-decoration: none;
+    margin-right: 60px;  
+    text-decoration: none;
+    cursor: pointer;  
+    color: black;
+
+    &.shop{
+        margin-right: 70px;
+    }
+
+    &.in{
+        text-decoration: none;
+    }
+}
+
+
+.size{
+    width: 140px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+
+

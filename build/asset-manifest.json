@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/LetsShop/static/css/main.a91175c4.chunk.css",
+    "main.js": "/LetsShop/static/js/main.3890c30a.chunk.js",
+    "main.js.map": "/LetsShop/static/js/main.3890c30a.chunk.js.map",
+    "runtime-main.js": "/LetsShop/static/js/runtime-main.85a03bb4.js",
+    "runtime-main.js.map": "/LetsShop/static/js/runtime-main.85a03bb4.js.map",
+    "static/js/2.8ced537c.chunk.js": "/LetsShop/static/js/2.8ced537c.chunk.js",
+    "static/js/2.8ced537c.chunk.js.map": "/LetsShop/static/js/2.8ced537c.chunk.js.map",
+    "static/js/3.aca114e6.chunk.js": "/LetsShop/static/js/3.aca114e6.chunk.js",
+    "static/js/3.aca114e6.chunk.js.map": "/LetsShop/static/js/3.aca114e6.chunk.js.map",
+    "index.html": "/LetsShop/index.html",
+    "static/css/main.a91175c4.chunk.css.map": "/LetsShop/static/css/main.a91175c4.chunk.css.map",
+    "static/js/2.8ced537c.chunk.js.LICENSE.txt": "/LetsShop/static/js/2.8ced537c.chunk.js.LICENSE.txt",
+    "static/media/crown.207ae289.svg": "/LetsShop/static/media/crown.207ae289.svg",
+    "static/media/shopping-cart.a688874f.svg": "/LetsShop/static/media/shopping-cart.a688874f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85a03bb4.js",
+    "static/js/2.8ced537c.chunk.js",
+    "static/css/main.a91175c4.chunk.css",
+    "static/js/main.3890c30a.chunk.js"
+  ]
+}
