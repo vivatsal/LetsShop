@@ -1,0 +1,22 @@
+.component{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    overflow: hidden;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.description{
+    width: 250px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    }
+
+.product-image{
+    height: 200px;
+    width: 250px;
+}
